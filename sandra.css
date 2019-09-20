@@ -1,0 +1,19 @@
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.heading_container {
+    background-color: #dffc00;
+
+}
+
+.heading_text {
+    color: #939344;
+}
+
+.paragraph_text {
+    color: #939344;
+}
